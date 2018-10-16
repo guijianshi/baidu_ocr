@@ -1,0 +1,17 @@
+{
+    "name": "guijianshi/baidu-ocr",
+    "description": "百度ocr包",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guijianshi",
+            "email": "1039170565@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "baidu\\ocr\\":"src/"
+        }
+    }
+}

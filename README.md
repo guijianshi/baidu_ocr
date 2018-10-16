@@ -5,6 +5,8 @@
 ```
 composer require guijianshi/baidu-ocr
 ```
+## 版本说明
+版本与官方保持一致可以根据自己实际使用选择最低版本为(2.2.3)
 
 ## 使用
 使用与官方文档一致
